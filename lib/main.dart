@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:partani_mobile/pages/pembeli/pembeli_page.dart';
 // import 'package:partani_mobile/pages/add_product.dart';
 // import 'package:partani_mobile/pages/home_page.dart';
+// ignore: unused_import
 import 'package:partani_mobile/user_login/login.dart'; // Import halaman login
 
 void main() {
